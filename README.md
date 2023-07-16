@@ -13,6 +13,7 @@ In this repository, you will get all the necessary topics you need to know for l
 8. Responsive Grid.
 9. Useful Grid Utilities.
 10. Bootstrap Forms.
+11. Bootstrap Navbar.
  
 ## 📋 Reference Docs
 For proper information and understanding of Bootstrap-5 refer to the official docs
